@@ -27,7 +27,7 @@ Variables clés :
 1. Import du CSV dans SQL  
 2. Nettoyage et création de vues analytiques  
 3. Analyse exploratoire et feature engineering (Python)  
-4. Modélisation prédictive (Logistic Regression)  
+4. Modélisation prédictive (régression logistique)  
 5. Dashboard Power BI connecté à la base SQL
 
 ---
@@ -57,11 +57,14 @@ Variables clés :
 ---
 
 ## 📷 Exemple de Dashboard
-*(Insère ici une capture d’écran Power BI)*
+<img width="1048" height="613" alt="image" src="https://github.com/user-attachments/assets/2cef2173-3519-4a64-802c-c9a56f8aa02d" />
+
 
 ---
 
 ## 👤 Auteur
-Projet personnel de Data Analysis – démonstration Full Stack Data Analyst  
+SHI Jimmy 
+Projet personnel de Data Analytics – Full Stack Data Analyst  
 
 Stack : **SQL + Python + Power BI**
+

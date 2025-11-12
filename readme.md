@@ -1,7 +1,7 @@
-# 🧩 Projet Data Analyst : Prédiction et Analyse du Churn Client SaaS
+# 🧩 Projet Data Analytics : Prédiction et analyse du churn client
 
 ## 🎯 Objectif
-Analyser et prédire la probabilité de churn (résiliation) des clients pour une entreprise SaaS.  
+Analyser et prédire la probabilité de churn des clients pour une entreprise de télécommunication.  
 Identifier les segments les plus à risque et proposer des leviers d’action.
 
 ---
@@ -63,4 +63,5 @@ Variables clés :
 
 ## 👤 Auteur
 Projet personnel de Data Analysis – démonstration Full Stack Data Analyst  
+
 Stack : **SQL + Python + Power BI**
